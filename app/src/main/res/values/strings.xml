@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">RxJavaGlobalThrottleFirstOperator</string>
+	<string name="intro">Click on both button in the same time, only one action will be processed in 1 second.</string>
+	<string name="btn_send_a_stringFormat">Send: A%d</string>
+	<string name="btn_send_b_stringFormat">Send: B%d</string>
+	<string name="log_btn_a_stringFormat">A%d</string>
+	<string name="log_btn_b_stringFormat">B%d</string>
+</resources>
